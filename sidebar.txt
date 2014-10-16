@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bcu:home|Door43 (bcu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bcu|d43-bcu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bcu/archive/master.zip|d43-bcu.zip]]
+
+**Recent Changes**
+{{changes>ns = bcu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bcu|Ethnologue data]]
+
